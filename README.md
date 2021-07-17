@@ -1,4 +1,4 @@
-#TD Lyrics - Touch designer lyric projection system
+# TD Lyrics - Touch designer lyric projection system
 
 ##The list of things this does(For google or the reader)
 Midi control of lyrics from ableton live
