@@ -28,7 +28,8 @@ NDI works over the network and on the same computer for viewering outputs of the
 
 # Usuage
 
-## GUI - Undocumented
+## GUI - Partially Documented
+https://github.com/all2god4god/TDLyrics/blob/main/Help/Usuage/GUI%20Usage.md
 
 ## Midi - Undocumented
 
